@@ -1,0 +1,6 @@
+.env
+/node-modules
+/proxy-server-book
+.DS_Store
+npm-debug.log
+package-lock.json
