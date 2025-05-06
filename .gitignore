@@ -1,5 +1,5 @@
 .env
-/node-modules
+/node_modules
 /proxy-server-book
 .DS_Store
 npm-debug.log
